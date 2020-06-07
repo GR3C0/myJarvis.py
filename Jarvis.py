@@ -38,8 +38,8 @@ def enviar_correo():
 	print ""
 		 
 	# Datos
-	username = 'diegomorellmasip@gmail.com'
-	password = 'pupulado8'
+	username = 'diegomorell@gmail.com'
+	password = 'estanoes'
 	
 	print ""
 	print "Enviando correo"
